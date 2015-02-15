@@ -8,7 +8,7 @@ OpenGL based Carrom Game developed on C++
 Requirements
 ------------
 * [OpenGL](https://www.opengl.org)
-* [FreeGlut]
+* [FreeGlut](http://freeglut.sourceforge.net/)
 
 Usage
 -----
