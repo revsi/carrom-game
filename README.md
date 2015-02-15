@@ -17,7 +17,7 @@ How to Execute the Game:
 
 make
 
-./game
+./carrom
 
 
 Help
